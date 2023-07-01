@@ -144,7 +144,7 @@
 .voice-search-button:hover, 
 .upload-icon-container:hover, 
 .youtube-icon-container:hover, 
-.notifications-icon-container:hover
+.notifications-icon-container:hover,
 .User-icon-container:hover
 {
     cursor: pointer;
