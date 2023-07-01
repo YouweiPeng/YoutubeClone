@@ -133,7 +133,8 @@
 .voice-search-button, 
 .upload-icon-container, 
 .youtube-icon-container, 
-.notifications-icon-container
+.notifications-icon-container,
+.User-icon-container
 {
     display: flex;
     justify-content: center;
@@ -144,6 +145,7 @@
 .upload-icon-container:hover, 
 .youtube-icon-container:hover, 
 .notifications-icon-container:hover
+.User-icon-container:hover
 {
     cursor: pointer;
 }
@@ -151,7 +153,8 @@
 .voice-search-button .tooltip, 
 .upload-icon-container .tooltip, 
 .youtube-icon-container .tooltip, 
-.notifications-icon-container .tooltip
+.notifications-icon-container .tooltip,
+.User-icon-container .tooltip
 {
     background-color: gray;
     color: white;
@@ -172,7 +175,8 @@
 .voice-search-button:hover .tooltip, 
 .upload-icon-container:hover .tooltip, 
 .youtube-icon-container:hover .tooltip, 
-.notifications-icon-container:hover .tooltip
+.notifications-icon-container:hover .tooltip,
+.User-icon-container:hover .tooltip
 {
     opacity: 1;
 }
